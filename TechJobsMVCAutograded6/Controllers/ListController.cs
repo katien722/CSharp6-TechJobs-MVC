@@ -11,6 +11,7 @@ using TechJobsMVCAutograded6.Models;
 namespace TechJobsMVCAutograded6.Controllers;
 
 public class ListController : Controller
+
 {
     internal static Dictionary<string, string> ColumnChoices = new Dictionary<string, string>()
         {
